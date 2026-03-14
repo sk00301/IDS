@@ -8,6 +8,8 @@ A machine learning-based **Network Intrusion Detection System** that evaluates a
 
 This project explores the use of various machine learning architectures to classify network traffic as normal or malicious. It covers the full pipeline from data preprocessing and balancing to model training, evaluation, and comparison.
 
+Dataset used: CICIDS 2017
+
 The following models are implemented and benchmarked:
 
 | Model | Notebook |
